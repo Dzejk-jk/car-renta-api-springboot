@@ -7,7 +7,6 @@ REST API pro správu autopůjčovny vytvořené v Spring Boot.
 - Java 25
 - Spring Boot 3
 - Spring Data JPA
-- PostgreSQL
 - Lombok
 - MapStruct
 - Swagger UI
